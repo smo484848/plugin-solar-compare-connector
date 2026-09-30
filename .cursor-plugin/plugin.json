@@ -1,0 +1,14 @@
+{
+  "name": "plugin-solar-compare",
+  "version": "1.0.0",
+  "description": "Compare UK plug-in solar kits, DIY options and professionally installed solar by postcode, property and preferences. Read-only comparisons with recorded prices, supplier links and caveats.",
+  "author": {
+    "name": "Opus Leads Ltd"
+  },
+  "homepage": "https://pluginsolarcompare.co.uk/ai-access",
+  "repository": "https://github.com/smo484848/plugin-solar-compare-connector",
+  "license": "MIT",
+  "keywords": ["solar", "UK", "plug-in-solar", "solar-comparison"],
+  "logo": "assets/icon.svg",
+  "mcpServers": "mcp.json"
+}
